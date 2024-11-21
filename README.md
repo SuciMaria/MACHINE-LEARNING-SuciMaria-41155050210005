@@ -1,8 +1,8 @@
-Nama	      :	Suci Maria
-Kelas	      :	TIF-A1
-Npm	        :	41155050210005
-Prode/Kelas : Teknik Informatika
-Mata Kuliah : Machine Learning
+Nama	      :	Suci Maria <br>
+Kelas	      :	TIF-A1 <br>
+Npm	      : 41155050210005 <br>
+Prode/Kelas   : Teknik Informatika <br>
+Mata Kuliah   : Machine Learning <br>
 
 # TUGAS PERTEMUAN 1
 
